@@ -2,7 +2,7 @@
 
  My name is Leonardo and I'm a Computer Science student.
 
- ⭐ I’m constantly learning new things.
+ ⭐ I’m constantly learning new things. </ br> 
  🖥️ I’m interested in developing software that can be useful to people.
 
 ## Languages I have used
